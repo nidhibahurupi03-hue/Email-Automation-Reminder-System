@@ -28,3 +28,21 @@ A powerful Streamlit-based Email Automation platform with scheduler, live email 
 ---
 
 ## 📁 Project Structure
+
+Email-Automation/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── src/
+│ ├── loader.py
+│ ├── analytics.py
+│ ├── mailer.py
+│ ├── scheduler.py
+│ └── logs.py
+│
+├── data/
+├── outputs/
+├── logs/
+└── images/
